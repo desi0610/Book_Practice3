@@ -1,3 +1,0 @@
-This my team colaboration practice 
-
-I will need some for real practices so I feel more confortable doing this commit, push, pull, fetch etc...
