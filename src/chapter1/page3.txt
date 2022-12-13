@@ -1,9 +1,5 @@
-This is my 3rd page of the new book
+my page 3 was gone I think I deleted it
 
-I'm supposed to practice with git and gitHub
+haha just practicing
 
-I was missing one step:
-
-         After I create the new project I need to go to git menu --> share on github --> than I can see
-         my new repository online on gitHub. com
-
+see you later
